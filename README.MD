@@ -1,4 +1,4 @@
-# `remotechrome` -- a PoC for remote chrome cookie dumping and pivoting with Chrome DevTools and port forwarding
+# `remotechrome` -- a PoC for remote chrome abuse
 ```
 explained over at tishina.in/ops/remotechrome
 ```
